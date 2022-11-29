@@ -37,8 +37,8 @@ public class Application {
 
         final String EnglishPage = "https://teams.microsoft.com/_#/teamDashboard/%D0%98%D0%AF222812_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-B1/19:PKHk1M1YRIJBDi-5PIjCFuD4gX4qWmeJfNTqXk27JYw1@thread.tacv2/td.members";
 
-        final String email = "are@sfedu.ru";
-        final String password = "Kira2014";
+        final String email = "";
+        final String password = "";
 
         DBWorking dbWorking = new DBWorking();
 
